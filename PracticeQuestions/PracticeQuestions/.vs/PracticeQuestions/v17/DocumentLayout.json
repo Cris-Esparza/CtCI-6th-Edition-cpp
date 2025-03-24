@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB66252F-355D-4A5F-9242-048370182ABD}|PracticeQuestions\\PracticeQuestions.vcxproj|B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\PracticeQuestions\\ArraysAndStrings-1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB66252F-355D-4A5F-9242-048370182ABD}|PracticeQuestions\\PracticeQuestions.vcxproj|solutionrelative:PracticeQuestions\\ArraysAndStrings-1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FB66252F-355D-4A5F-9242-048370182ABD}|PracticeQuestions\\PracticeQuestions.vcxproj|B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\PracticeQuestions\\1- Arrays and strings\\ArraysAndStrings-1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB66252F-355D-4A5F-9242-048370182ABD}|PracticeQuestions\\PracticeQuestions.vcxproj|solutionrelative:PracticeQuestions\\1- Arrays and strings\\ArraysAndStrings-1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\1.Is Unique\\1. Is_unique.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\2.Check Permutation\\1.Check_Permutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArraysAndStrings-1.1.cpp",
-              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\PracticeQuestions\\ArraysAndStrings-1.1.cpp",
-              "RelativeDocumentMoniker": "PracticeQuestions\\ArraysAndStrings-1.1.cpp",
-              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\PracticeQuestions\\ArraysAndStrings-1.1.cpp",
-              "RelativeToolTip": "PracticeQuestions\\ArraysAndStrings-1.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAjAAAAAAAAAA==",
+              "Title": "ArraysAndStrings-1.2.cpp",
+              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\PracticeQuestions\\1- Arrays and strings\\ArraysAndStrings-1.2.cpp",
+              "RelativeDocumentMoniker": "PracticeQuestions\\1- Arrays and strings\\ArraysAndStrings-1.2.cpp",
+              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\PracticeQuestions\\PracticeQuestions\\PracticeQuestions\\1- Arrays and strings\\ArraysAndStrings-1.2.cpp",
+              "RelativeToolTip": "PracticeQuestions\\1- Arrays and strings\\ArraysAndStrings-1.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-24T19:30:00.415Z",
+              "WhenOpened": "2025-03-24T20:10:53.512Z",
               "EditorCaption": ""
             }
           ]
@@ -41,14 +41,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "1. Is_unique.cpp",
-              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\1.Is Unique\\1. Is_unique.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Ch 1.Arrays And Strings\\1.Is Unique\\1. Is_unique.cpp",
-              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\1.Is Unique\\1. Is_unique.cpp",
-              "RelativeToolTip": "..\\..\\Ch 1.Arrays And Strings\\1.Is Unique\\1. Is_unique.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "1.Check_Permutation.cpp",
+              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\2.Check Permutation\\1.Check_Permutation.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Ch 1.Arrays And Strings\\2.Check Permutation\\1.Check_Permutation.cpp",
+              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\2.Check Permutation\\1.Check_Permutation.cpp",
+              "RelativeToolTip": "..\\..\\Ch 1.Arrays And Strings\\2.Check Permutation\\1.Check_Permutation.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-24T19:33:42.028Z",
+              "WhenOpened": "2025-03-24T20:15:08.606Z",
               "EditorCaption": ""
             }
           ]
