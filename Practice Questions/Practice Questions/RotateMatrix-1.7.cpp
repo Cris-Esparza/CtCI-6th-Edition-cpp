@@ -3,7 +3,7 @@ using namespace std;
 
 // Problem 1.7 Rotate a matrix by 90' clockwise ( or anticlockwise).
 
-// first approach is to take the transpose of the matrix
+// first approach is to take the transpose of the matrix (swap rows with columns)
 void transpose(int** matrix, int N)
 {
 	for (int i = 0; i < N; i++)
