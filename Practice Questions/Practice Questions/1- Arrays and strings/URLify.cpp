@@ -1,41 +1,48 @@
 #include <iostream>
-#include <string>
-#include <vector>
+#include <cstring>
 using namespace std;
 
 // write a method to replace all the spaces in a string with "%20"
 
-string modifiedString(const string& str)
+void replaceSpaces(char *str, int length)
 {
-	// create string to hold new string
-	vector<char> newString;
-
-	// iterate through parsed string and look for spaces (do not count spaces at the end of the string)
-	for (int i = 0; i < str.length(); i++)
+	// find number of spaces in string
+	int numOfSpaces = 0;
+	for (int i = 0; i < length; i++)
 	{
-		if (str[i] != ' ')
+		if (str[i] == ' ')
 		{
-			// if the character is not an empty space
-			newString.insert(newString.end(), str[i]);
-		}
-		else
-		{
-			// if it is a space, insert the substituted character instead
-			newString.insert(newString.end(), '%20');
+			numOfSpaces++;
 		}
 	}
 
-	string modifiedString(newString.begin(), newString.end());
-	return modifiedString;
+	// iterate through parsed string backwards
+	int extendedLength = length + 2 * numOfSpaces;
+	int i = extendedLength - 1;
+	for (int j = length - 1; j >= 0; j--)
+	{
+		// if char at index isnt a space, copy it into the new string
+		if (str[j] != ' ')
+		{
+			str[i--] = str[j];
+		}
+		// if its a space, create two additional spaces to fit the extra characters
+		else 
+		{
+			str[i--] = '0';
+			str[i--] = '2';
+			str[i--] = '%';
+		}
+	}
 }
 
 
 int main()
 {
-	string testSentence = "Dallas has a new toy";
-
-	cout << "Mutating string: " << testSentence << endl;
-	cout << modifiedString(testSentence);
-
+	char str[] = "Dallas has a new toy    ";
+	cout << "Actual string : " << str << endl;
+	replaceSpaces(str, 20);
+	cout << "URLified string: " << str << endl;
+	
 	return 0;
 }

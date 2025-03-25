@@ -1,8 +1,2 @@
 ﻿  URLify.cpp
-B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\1- Arrays and strings\URLify.cpp(24,38): warning C4305: 'argument': truncation from 'int' to '_Ty'
-B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\1- Arrays and strings\URLify.cpp(24,38): warning C4305:         with
-B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\1- Arrays and strings\URLify.cpp(24,38): warning C4305:         [
-B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\1- Arrays and strings\URLify.cpp(24,38): warning C4305:             _Ty=char
-B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\1- Arrays and strings\URLify.cpp(24,38): warning C4305:         ]
-B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\1- Arrays and strings\URLify.cpp(24,38): warning C4309: 'argument': truncation of constant value
   Practice Questions.vcxproj -> B:\Git\CtCI-6th-Edition-cpp\Practice Questions\x64\Debug\Practice Questions.exe
