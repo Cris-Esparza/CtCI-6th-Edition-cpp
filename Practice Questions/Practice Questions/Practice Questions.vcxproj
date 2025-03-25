@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-Linked List\RemoveDups-2.1.cpp" />
+    <ClCompile Include="..\..\chapter-2-Linked-Lists\2-2-kthToLast.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
