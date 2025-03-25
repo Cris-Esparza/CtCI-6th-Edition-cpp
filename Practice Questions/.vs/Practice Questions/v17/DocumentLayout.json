@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0871A428-43D8-4B10-8A36-986A640E1151}|Practice Questions\\Practice Questions.vcxproj|B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\Practice Questions\\RotateMatrix-1.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0871A428-43D8-4B10-8A36-986A640E1151}|Practice Questions\\Practice Questions.vcxproj|solutionrelative:Practice Questions\\RotateMatrix-1.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0871A428-43D8-4B10-8A36-986A640E1151}|Practice Questions\\Practice Questions.vcxproj|B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\Practice Questions\\ZeroMatrix-1.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0871A428-43D8-4B10-8A36-986A640E1151}|Practice Questions\\Practice Questions.vcxproj|solutionrelative:Practice Questions\\ZeroMatrix-1.8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\7.Rotate_matrix\\7.rotate_matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\8.Zero_matrix\\8.zero_matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RotateMatrix-1.7.cpp",
-              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\Practice Questions\\RotateMatrix-1.7.cpp",
-              "RelativeDocumentMoniker": "Practice Questions\\RotateMatrix-1.7.cpp",
-              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\Practice Questions\\RotateMatrix-1.7.cpp",
-              "RelativeToolTip": "Practice Questions\\RotateMatrix-1.7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "ZeroMatrix-1.8.cpp",
+              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\Practice Questions\\ZeroMatrix-1.8.cpp",
+              "RelativeDocumentMoniker": "Practice Questions\\ZeroMatrix-1.8.cpp",
+              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\Practice Questions\\Practice Questions\\ZeroMatrix-1.8.cpp",
+              "RelativeToolTip": "Practice Questions\\ZeroMatrix-1.8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T03:57:14.783Z",
+              "WhenOpened": "2025-03-25T19:28:59.017Z",
               "EditorCaption": ""
             }
           ]
@@ -41,14 +41,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "7.rotate_matrix.cpp",
-              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\7.Rotate_matrix\\7.rotate_matrix.cpp",
-              "RelativeDocumentMoniker": "..\\Ch 1.Arrays And Strings\\7.Rotate_matrix\\7.rotate_matrix.cpp",
-              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\7.Rotate_matrix\\7.rotate_matrix.cpp",
-              "RelativeToolTip": "..\\Ch 1.Arrays And Strings\\7.Rotate_matrix\\7.rotate_matrix.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Title": "8.zero_matrix.cpp",
+              "DocumentMoniker": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\8.Zero_matrix\\8.zero_matrix.cpp",
+              "RelativeDocumentMoniker": "..\\Ch 1.Arrays And Strings\\8.Zero_matrix\\8.zero_matrix.cpp",
+              "ToolTip": "B:\\Git\\CtCI-6th-Edition-cpp\\Ch 1.Arrays And Strings\\8.Zero_matrix\\8.zero_matrix.cpp",
+              "RelativeToolTip": "..\\Ch 1.Arrays And Strings\\8.Zero_matrix\\8.zero_matrix.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T03:57:43.777Z",
+              "WhenOpened": "2025-03-25T19:35:49.857Z",
               "EditorCaption": ""
             }
           ]
