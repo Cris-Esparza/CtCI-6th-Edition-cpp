@@ -1,2 +1,22 @@
-﻿  2-2-kthToLast.cpp
-  Practice Questions.vcxproj -> B:\Git\CtCI-6th-Edition-cpp\Practice Questions\x64\Debug\Practice Questions.exe
+﻿  Node.cpp
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.h(15,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '2-Linked%20List/Node.cpp')
+  
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.h(15,2): warning C4183: 'NewNode': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '2-Linked%20List/Node.cpp')
+  
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.h(16,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '2-Linked%20List/Node.cpp')
+  
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.h(16,2): warning C4183: 'NewNode': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '2-Linked%20List/Node.cpp')
+  
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.h(17,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '2-Linked%20List/Node.cpp')
+  
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.h(17,2): warning C4183: 'NewNode': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '2-Linked%20List/Node.cpp')
+  
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.cpp(4,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.cpp(10,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+B:\Git\CtCI-6th-Edition-cpp\Practice Questions\Practice Questions\2-Linked List\Node.cpp(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
